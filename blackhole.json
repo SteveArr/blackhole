@@ -1,0 +1,27 @@
+{
+    "watch_directory": "C:/Users/stevearr/Desktop/Wormhole/",
+    "handle_extensions": [
+        {
+            "extensions": [".py"],
+            "directory": "C:/Work/Storage/python/"
+        },
+        {
+            "extensions": [".png",".jpg"],
+            "directory": "C:/Work/Storage/images/"
+        },
+        {
+            "extensions": [".txt"],
+            "directory": "C:/Work/Storage/text/"
+        }
+    ],
+    "handle_filenames": [
+        {
+            "filenames": ["screenshot","screen_"],
+            "directory": "C:/Work/Storage/screenshots/"
+        },
+        {
+            "filenames": ["appsec"],
+            "directory": "C:/Work/Storage/application_security/"
+        }
+    ]
+}
